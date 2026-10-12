@@ -1,0 +1,4 @@
+name: organizations/535744638380/policies/compute.skipDefaultNetworkCreation
+spec:
+  rules:
+  - enforce: true
